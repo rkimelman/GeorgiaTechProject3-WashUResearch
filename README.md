@@ -1,6 +1,6 @@
 # GeorgiaTechProject3-WashUResearch
 ---------------------------------------------------------------------------------------------------------------------------------------
-- "Uncondensed code" is the code that was given to me with the goal of writing a more generalizable version.
+- "CodeOriginal" is the code that was given to me with the goal of writing a more generalizable version.
 
 - "Condensed code" is the more generalizable version of "uncondensed code" that I wrote in leading a team of undergraduates.
 
