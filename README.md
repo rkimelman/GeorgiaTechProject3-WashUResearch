@@ -2,9 +2,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 - "CodeOriginal" is the code that was given to me with the goal of writing a more generalizable version.
 
-- "CondensedCode" is the more generalizable version of "uncondensed code" that I wrote in leading a team of undergraduates.
+- "CondensedCode" is the more generalizable version of "CodeOriginal" that I wrote in leading a team of undergraduates.
 
-- "CondensedCodeOutput" is a presentation that I made displaying the output and results of "condensed code."
+- "CondensedCodeOutput" is a presentation that I made displaying the output and results of "CondensedCode."
 
 - "MeditationRetreatData" is a presentation that I made showing the results from EEG data I analyzed using Brain Vision Analyzer.
 
