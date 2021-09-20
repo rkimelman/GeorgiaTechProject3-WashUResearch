@@ -6,8 +6,6 @@
 
 - "CondensedCodeOutput" is a presentation that I made displaying the output and results of "CondensedCode."
 
-- "MeditationRetreatData" is a presentation that I made showing the results from EEG data I analyzed using Brain Vision Analyzer.
-
 - "Poster Presentation Slides" are slides for my poster presentation at the 2021 WashU Undergraduate Research Symposium (will take place between September 27 and October 1).
 
   -> Link to oral presentation: https://youtu.be/O-t1qWxY2N8 
