@@ -10,6 +10,6 @@
 
 - "Poster Presentation Slides" are slides from my poster presentation at the 2021 WashU Undergraduate Research Symposium (will take place between September 27 and October 1).
 
-  -> [https://youtube.com/O-t1qWxY2N8] (Link to oral presentation)
+  -> [https://youtu.be/O-t1qWxY2N8] (Link to oral presentation)
 
 - "SURA Proposal" is a successful funding application that I wrote in order to do research in the CCP Lab at WashU in the summer of 2021.
